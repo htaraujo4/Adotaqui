@@ -26,6 +26,7 @@ SQL_PASSWORD= Senha_do_banco
 SQL_DATABASE=Adotaqui
 SQL_SERVER= Endereço_do_Servidor.
 
+
 # FRONT-END
 
 Este projeto foi gerado com [Angular CLI] (https://github.com/angular/angular-cli) versão 12.0.3.
